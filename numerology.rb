@@ -6,6 +6,8 @@ prompt for a birthdate
 To recap: Get each number from the birthdate individually,
 using array syntax, and convert it to a number. Then add
  those eight numbers together.
+
+
 =end
 
 puts "Enter your birthdate as MMDDYYYY"
